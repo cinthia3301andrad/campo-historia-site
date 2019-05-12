@@ -1,25 +1,33 @@
 @font-face {
-    font-family: "Gobold ";
+    font-family: "Gobold";
     src: url("Gobold-Regular.otf");
  }
  body{
-    font-family: "Gobold ";
+    font-family: "Gobold";
 
  }
  h1{
     color: black;
     text-decoration: none;
-    font-size: 40px;
+    font-size: 35px;
     text-align: center;
+    margin: 30px -30px -70px 30px;
+
 }
-#wrap{
-    width: 1170px;
+#wrap {
+    width: 600px;
     margin: auto;
+
 }
+p {
+    text-indent: 100 px;
+    text-align: justify;
+}
+
 .imagens img{
     width: 250px;
     padding: 65px;
-    margin: 100px 0px 0px 100;
+    margin: 30px -100px -30px 100px;
 
 
 }
